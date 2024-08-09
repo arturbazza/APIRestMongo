@@ -1,0 +1,26 @@
+1) Inserir um novo show:
+
+Método: POST
+URL: http://localhost:8080/api/shows
+Body (JSON):
+{
+    "show_id": 1,
+    "location": "Seoul",
+    "date": "2023-09-25",
+    "available_tickets": 100000
+}
+
+2) Inserir um novo show:
+Método: POST
+URL: http://localhost:8080/api/shows
+Body (JSON):
+{
+    "show_id": 2,
+    "location": "New York",
+    "date": "2023-10-15",
+    "available_tickets": 85000
+}
+
+3) Listar todos os shows:
+Método: GET
+URL: http://localhost:8080/api/shows
