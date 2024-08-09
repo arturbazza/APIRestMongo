@@ -21,8 +21,10 @@ cd RestMongo
 
 4. Testando com Postman: Acesse a API em `http://localhost:8080/api/shows`.
 
-- Use os endpoints descritos na seção "Testes com Postman".
+    Use os endpoints descritos na seção "Testes com Postman".
+
 
 Thank you.
+
 @rtur.
 
