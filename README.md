@@ -52,10 +52,10 @@ Após iniciar a aplicação, você pode testar a API usando o Postman.
 
     ```json
     {
-        "show_id": 5,
-        "location": "Porto Alegre",
-        "date": "2024-08-09",
-        "available_tickets": 85000
+        "show_id": 1,
+        "location": "Auditório Fundatec",
+        "date": "2024-08-24",
+        "available_tickets": 100
     }
     ```
 
