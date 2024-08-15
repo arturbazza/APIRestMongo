@@ -70,12 +70,13 @@ Não é necessário enviar um corpo para esta requisição. Você deve ver uma l
 
 #### Extra:
    - Print Screem
-      
-      ![Docker](_GET.jpg)
+        - GET
+        ![GET](_GET.jpg)
+   
+        - POST
+        ![POST](_POST.jpg)
 
-      ![POST](_POST.jpg)
-
-Se tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato.
+Se tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato arturbc@gmail.com.
 
 Obrigado, professora! <3
 
