@@ -70,6 +70,6 @@ Não é necessário enviar um corpo para esta requisição. Você deve ver uma l
 
 Se tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato.
 
-Obrigado, professor! <3
+Obrigado, professora! <3
 
 @rtur.
